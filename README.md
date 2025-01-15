@@ -1,2 +1,2 @@
 # ToolAndEnvSEWeek2
-Hello mình là nhóm 12
+Dự án của nhóm 12
